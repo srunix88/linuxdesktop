@@ -19,3 +19,7 @@ https://www.serverwatch.com/guides/using-a-physical-hard-drive-with-a-virtualbox
 And I wanted to take notes, and I was planning to use all the various note tools, but decided, I would just use github for now. 
 I see there is a note client for Evernote... that might be worth trying one day.
 
+And once I download the ISO files... how do I burn them onto a USB stick or hard disk:
+
+https://www.howtogeek.com/414574/how-to-burn-an-iso-file-to-a-usb-drive-in-linux/
+
